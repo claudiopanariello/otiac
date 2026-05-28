@@ -1,6 +1,6 @@
 # OTIAC
 
-> OTIAC - O totan int a chitarr
+> OTIAC - O totaro int' a chitarra
 
 ## Quickstart
 
