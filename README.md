@@ -8,7 +8,7 @@
 
 ```supercollider
 // install the quark
-Quarks.install("https://github.com/otiac/otiac")
+Quarks.install("https://github.com/claudiopanariello/otiac")
 
 // recompile
 thisProcess.recompile;
